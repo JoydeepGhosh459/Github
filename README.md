@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JoydeepGhosh459
-- 👀 I’m interested in Machine Learning, Business Analytics, Data Storytelling. 
+- 👋 Hi, I’m Joydeep Ghosh - ( @JoydeepGhosh459 )
+- 👀 I’m interested in Machine Learning, Business Analytics & Data Storytelling. 
 - 🌱 I’m currently pursuing Masters in Data Science from Northwestern University.
 - 💞️ I’m looking to collaborate on Machine Learning algorithms
 - 📫 How to reach me : joydeepghosh2022@u.northwestern.edu
